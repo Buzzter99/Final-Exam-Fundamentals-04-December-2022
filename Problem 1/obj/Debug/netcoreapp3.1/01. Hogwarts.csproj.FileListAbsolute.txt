@@ -1,0 +1,14 @@
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\01. Hogwarts.exe
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\01. Hogwarts.deps.json
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\01. Hogwarts.runtimeconfig.json
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\01. Hogwarts.runtimeconfig.dev.json
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\01. Hogwarts.dll
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\01. Hogwarts.pdb
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\01. Hogwarts.csproj.AssemblyReference.cache
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\01. Hogwarts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\01. Hogwarts.AssemblyInfoInputs.cache
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\01. Hogwarts.AssemblyInfo.cs
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\01. Hogwarts.csproj.CoreCompileInputs.cache
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\01. Hogwarts.dll
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\01. Hogwarts.pdb
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\01. Hogwarts.genruntimeconfig.cache

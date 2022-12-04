@@ -1,0 +1,14 @@
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.exe
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.deps.json
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.runtimeconfig.json
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.runtimeconfig.dev.json
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.dll
+C:\Users\Bako-PC\source\repos\Problem 1\bin\Debug\netcoreapp3.1\Problem 1.pdb
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.csproj.AssemblyReference.cache
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.AssemblyInfoInputs.cache
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.AssemblyInfo.cs
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.csproj.CoreCompileInputs.cache
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.dll
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.pdb
+C:\Users\Bako-PC\source\repos\Problem 1\obj\Debug\netcoreapp3.1\Problem 1.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Bako-PC\source\repos\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.exe
+C:\Users\Bako-PC\source\repos\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.deps.json
+C:\Users\Bako-PC\source\repos\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.runtimeconfig.json
+C:\Users\Bako-PC\source\repos\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.runtimeconfig.dev.json
+C:\Users\Bako-PC\source\repos\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.dll
+C:\Users\Bako-PC\source\repos\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.pdb
+C:\Users\Bako-PC\source\repos\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.csproj.AssemblyReference.cache
+C:\Users\Bako-PC\source\repos\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako-PC\source\repos\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.AssemblyInfoInputs.cache
+C:\Users\Bako-PC\source\repos\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.AssemblyInfo.cs
+C:\Users\Bako-PC\source\repos\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.csproj.CoreCompileInputs.cache
+C:\Users\Bako-PC\source\repos\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.dll
+C:\Users\Bako-PC\source\repos\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.pdb
+C:\Users\Bako-PC\source\repos\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.genruntimeconfig.cache

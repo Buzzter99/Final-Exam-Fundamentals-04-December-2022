@@ -1,0 +1,14 @@
+C:\Users\Bako-PC\source\repos\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.exe
+C:\Users\Bako-PC\source\repos\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.deps.json
+C:\Users\Bako-PC\source\repos\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.runtimeconfig.json
+C:\Users\Bako-PC\source\repos\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.runtimeconfig.dev.json
+C:\Users\Bako-PC\source\repos\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.dll
+C:\Users\Bako-PC\source\repos\03. Messages Manager\bin\Debug\netcoreapp3.1\03. Messages Manager.pdb
+C:\Users\Bako-PC\source\repos\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.csproj.AssemblyReference.cache
+C:\Users\Bako-PC\source\repos\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bako-PC\source\repos\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.AssemblyInfoInputs.cache
+C:\Users\Bako-PC\source\repos\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.AssemblyInfo.cs
+C:\Users\Bako-PC\source\repos\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.csproj.CoreCompileInputs.cache
+C:\Users\Bako-PC\source\repos\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.dll
+C:\Users\Bako-PC\source\repos\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.pdb
+C:\Users\Bako-PC\source\repos\03. Messages Manager\obj\Debug\netcoreapp3.1\03. Messages Manager.genruntimeconfig.cache
